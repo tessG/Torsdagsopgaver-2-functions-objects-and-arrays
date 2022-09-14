@@ -1,15 +1,18 @@
 ### Exercises with functions, objects and arrays
 
 ## Task 1: Functions
+
     1.a Create a sketch and name it Task1. Write a void setup()-function in the sketch.
 
     1.b Write a function that prints an empty line and call it from setup();
 
-    1.c Write a function that receives a string as a parameter and prints it. call this function from setup()
+    1.c Write a function that receives a string as a parameter and prints it. 
+    call this function from setup()
 
     1.d Write a function that receives a string called "name" and an integer called "age" and call it from setup with your own name and age. Have the function print the text "My name is \<name\>, I am <age> years old".
 
 ## Task 2: Functions return types
+
     2.a Look at the file TaskTwoA and fill out the missing line, using the happy boolean. 
 
     2.b Write a function that receives to integers as parameters and returns the sum of them.
@@ -20,6 +23,7 @@
 
 ## Task 3: Objects
 Small Processing-hack. If you have more than one tab and you get the error message "Cannot find a class or type named.." you can fix this by adding a setup() method to the "missing class/tab".
+
 
     3.a Create a new tab and save it by the name "Datamatik".
 
@@ -72,5 +76,5 @@ You will need your Datamatik and Student tab from task 3. If you have created a 
 
 ## Task 6: Debugging
 
-    6.a Start en ny java fil med din tekst editor og sæt koden fra 'debug' ind i filen. Gem filen med det rigtige navn og compile klassen - du vil se at der er 7 fejl. Fix dem. '
+    6.a Åbn Debug sketchen og ret fejlene så den kan køre.
 

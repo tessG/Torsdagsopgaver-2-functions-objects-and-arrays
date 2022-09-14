@@ -1,6 +1,6 @@
 /*
  *
- * Hvis du kører programmet får du 7 fejl.
+ * Hvis du kører programmet får du en række fejl.
  * Fix programmet så det kan køre og
  * outputtet bliver:
  * "7 is the smallest!"
@@ -12,7 +12,7 @@
     int a = 7, b = 42;
     minimum(a,b);
     if {smaller == a} {
-      System.out.println("a is the smallest!");
+      println("a is the smallest!");
     }
   }
   void minimum(int a, int b) {

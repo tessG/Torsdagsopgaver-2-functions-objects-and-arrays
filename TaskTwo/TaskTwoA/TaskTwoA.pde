@@ -1,7 +1,6 @@
-class Main{
-  public static boolean happy = true;
+boolean happy = true;
 
-public static void main(String [] args) {
+ void setup() {
    if (iAmHappy())
    {
      System.out.println("I clap my hands");
@@ -12,10 +11,7 @@ public static void main(String [] args) {
    }
 }
 
-
-public static boolean iAmHappy()
-{
+boolean iAmHappy(){
   // fill out what is missing here: 
   return true;
-}
 }

@@ -19,7 +19,12 @@
 
 - 2.c Write a function that receives a string and returns it as uppercase. (Hint: use the String-method ".toUpperCase()" <br> on your string. Notice that toUpperCase() has a string as returntype)
 
-- 2.d Write a function that receives a string and returns true if the first letter of the string is uppercase. (Hints: use the String-method ".charAt(0)" and "Character.isUpperCase('a');" )
+- 2.d Write a function that receives a string and returns true if the first letter of the string is uppercase. 
+<details>
+  <summary>Hint</summary>
+  <p>use the String-method ".charAt(0)" and "Character.isUpperCase('a');" </p>
+</details>
+
 
 ## Task 3: Objects
 Small Processing-hack. If you have more than one tab and you get the error message "Cannot find a class or type named.." you can fix this by adding a setup() method to the "missing class/tab".

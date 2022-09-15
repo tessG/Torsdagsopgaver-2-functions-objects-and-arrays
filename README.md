@@ -9,7 +9,7 @@
  - 1.c Write a function that receives a string as a parameter and prints it. 
     call this function from setup()
 
- - 1.d Write a function that receives a string called "name" and an integer called "age" and call it from setup with your own name and age. Have the function print the text "My name is \<name\>, I am <age> years old".
+ - 1.d Write a function that receives a string called "name" and an integer called "age" and call it from setup with your own name and age. Have the function print the text "My name is \<name\>, I am \<age\> years old".
 
 ## Task 2: Functions return types
 
